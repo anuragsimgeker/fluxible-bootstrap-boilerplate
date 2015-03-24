@@ -1,0 +1,6 @@
+{
+  "name": "fluxible-bootstrap-boilerplate",
+  "devDependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
